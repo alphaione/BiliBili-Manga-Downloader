@@ -13,6 +13,15 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Zeal-L/BiliBili-Manga-Downloader)
 ![GitHub all releases - Download](https://img.shields.io/github/downloads/Zeal-L/BiliBili-Manga-Downloader/total)
 
+
+# **由于叔叔现在全面收紧后台api，本项目的主要功能已经失效，暂时不会更新了，感谢大家长期以来的支持~**
+
+## 🍻 联系方式
+
+欢迎进群讨论程序，漫画，资源分享, 提交问题等等
+
+- Q群号：642496134
+
 ## 💬 简介
 
 **由于作者某天实在是受不了B漫网页版的观看体验 ~~(时而混入漫画中的广告，无法便捷快速的放大图片，进度栏作死一样的反复横跳挡视线等等...)~~，再加上作者的仓鼠属性 😛**
